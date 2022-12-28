@@ -17,7 +17,8 @@ This project involves using AI to analyze live-streamed street webcam footage an
 
      A mobile development framework created by Google that uses the Dart programming language and allows developers to build natively compiled apps for mobile, web, and desktop from a single codebase
      
-- ![Firebase logo](https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" width=60% height=60% >
+     
      A Google-managed platform that provides a range of tools and services for building and managing mobile and web applications. The real-time database feature is used in this project to provide users with up-to-date information about crowd levels at their destination
 
 - 
