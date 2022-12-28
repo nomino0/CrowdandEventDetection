@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532425959340",
+    "firebase_url": "https://crowddet-raspb-iotminiproject-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "crowddet-raspb-iotminiproject",
+    "storage_bucket": "crowddet-raspb-iotminiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532425959340:android:b1afc10bfac131c4b47c09",
+        "android_client_info": {
+          "package_name": "com.example.smart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532425959340-k5kcbf1anjn0io8euca85kgc5dqqcq5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart",
+            "certificate_hash": "d0f69c653148b63318a0b89f7154dcc533e28985"
+          }
+        },
+        {
+          "client_id": "532425959340-vjb35gd01ejetr3fnb687h6pq5f6jnc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsNejhWkKZ4uNoMLlBQTC7oB9FQ8qHP9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532425959340-vjb35gd01ejetr3fnb687h6pq5f6jnc7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532425959340-clr2hifn9r25ttdossm1mhq93ldj231f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crowdetection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

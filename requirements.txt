@@ -1,0 +1,23 @@
+## Getting Started
+
+1. Install the required dependencies:
+
+2. Set up a Firebase project and configure the app to use the real-time database feature.
+
+3. Set up a GCP account and create a new project.
+
+4. Connect the Raspberry Pi to the GCP project and configure it to stream video to the cloud.
+
+5. Train the AI model using the PyTorch library and the YOLOv5 algorithm.
+
+6. Deploy the model to GCP and set up a scheduled task to run the model on a regular basis.
+
+7. Build the mobile app using Flutter and connect it to the Firebase database to retrieve the data.
+
+## Contributing
+
+We welcome contributions to this project! If you have an idea for a new feature or a bug fix, please open a new issue or pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
