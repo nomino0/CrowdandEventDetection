@@ -27,7 +27,7 @@ This project involves using AI to analyze live-streamed street webcam footage an
   A small, low-cost computer that can be used for a variety of applications, including streaming video to the cloud via WiFi
   
   
-- <img src="https://i.ibb.co/4fSnNNj/1-Tp-MP0-R6hz-Fx-Zdy-Cdl-XMZm-Q-2.png" >
+- <img src="https://i.ibb.co/4fSnNNj/1-Tp-MP0-R6hz-Fx-Zdy-Cdl-XMZm-Q-2.png" width=80% height=80% >
     A cloud computing platform offered by Google that provides a range of services and tools for building and running applications. In this project, GCP is used as the environment for running the AI processing tasks.
 
 ## Getting Started
