@@ -35,14 +35,14 @@ This project involves using AI to analyze live-streamed street webcam footage an
 
 <table class="borderless" >
    <tr>
-    <td width=33.3333%; align="center" > <img src="https://behind-the-scenes.net/wp-content/uploads/raspberry-pi-wi-fi-1024x512.jpg" width=100% height=100% /> </td> 
+    <td width=33.3333%; align="center" > <img src="https://behind-the-scenes.net/wp-content/uploads/raspberry-pi-wi-fi-1024x512.jpg" width=60% height=60% /> </td> 
      <td width=66.6666% >A small, low-cost computer that can be used for a variety of applications, including streaming video to the cloud via WiFi</td>
    </tr>  
 <table>
 
 <table class="borderless" >
    <tr>
-    <td width=33.3333%; align="center" > <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/10/gcp.png" width=100% height=100% /> </td> 
+    <td width=33.3333%; align="center" > <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/10/gcp.png" width=80% height=80% /> </td> 
      <td width=66.6666% >A cloud computing platform offered by Google that provides a range of services and tools for building and running applications. In this project, GCP is used as the environment for running the AI processing tasks</td>
    </tr>  
 <table>
