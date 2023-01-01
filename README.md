@@ -2,6 +2,13 @@
 
 This project involves using AI to analyze live-streamed street webcam footage and detect the number of people or cars present in a location. The data is made available to users via a mobile app, allowing them to see the current state of their destination in real-time.
 
+<p align="center" > <img src="https://i.ibb.co/74WJkrP/Untitled-design.jpg" width=80% height=80% />
+</p>
+
+At the level of  the Network Leyer :
+<p align="center" > <img src="https://i.ibb.co/4fSnNNj/1-Tp-MP0-R6hz-Fx-Zdy-Cdl-XMZm-Q-2.png" width=80% height=80% />
+</p>
+
 ## Technologies Used
 
 <table class="borderless" >
