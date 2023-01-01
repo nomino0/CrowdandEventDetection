@@ -1,4 +1,0 @@
-
-(base) C:\Windows\system32>cd C:\yolov5-master
-
-(base) C:\yolov5-master>python detect.py --source 0 --classes 0

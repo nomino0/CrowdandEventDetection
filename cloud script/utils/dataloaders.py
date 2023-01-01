@@ -406,9 +406,9 @@ class LoadStreams:
 
     def __next__(self):
         self.count += 1
-        if not all(x.is_alive() for x in self.threads) or cv2.waitKey(1) == ord('q'):  # q to quit
-            cv2.destroyAllWindows()
-            raise StopIteration
+      #  if not all(x.is_alive() for x in self.threads) or cv2.waitKey(1) == ord('q'):  # q to quit
+        #    cv2.destroyAllWindows()
+         #  raise StopIteration
 
         im0 = self.imgs.copy()
         if self.transforms:

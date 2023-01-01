@@ -1,0 +1,4 @@
+
+cd C:\MiniProject\yolov5-master
+
+python detect.py --source https://www.youtube.com/watch?v=RQA5RcIZlAM --classes 0
