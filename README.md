@@ -1,4 +1,4 @@
-# AI-based Live-Streamed Street Footage Analyzer
+# AI-Powered Crowd Detection in Live-Streamed Public Footage
 
 This project involves using AI to analyze live-streamed street webcam footage and detect the number of people or cars present in a location. The data is made available to users via a mobile app, allowing them to see the current state of their destination in real-time.
 
